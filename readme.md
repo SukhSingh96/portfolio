@@ -25,8 +25,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Mock-Up
 The following screenshots show the web application's appearance and functionality:
-image.png
-image.png
+![image](https://user-images.githubusercontent.com/121911679/217045735-66f1a73a-e911-4948-b392-21bfa645e616.png)
+![image](https://user-images.githubusercontent.com/121911679/217045847-114eca06-6c99-469c-821a-2a1ceb7e1e60.png)
+
 
 
 # Technologies used
