@@ -35,4 +35,4 @@ HTML
 CSS
 
 # Link to deployed application
-
+https://sukhsingh96.github.io/advanced-css-challenge/
